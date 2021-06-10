@@ -1,0 +1,2 @@
+model_checkpoint_path: "01-basic-auto-encoder-MNIST.ckpt"
+all_model_checkpoint_paths: "01-basic-auto-encoder-MNIST.ckpt"
