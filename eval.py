@@ -1,3 +1,7 @@
+#
+# Author : wnsdlqjtm@naver.com
+#
+
 import tensorflow as tf
 from autoencoder import AutoEncoder
 

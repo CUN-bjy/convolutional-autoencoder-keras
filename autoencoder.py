@@ -1,3 +1,7 @@
+#
+# Author : wnsdlqjtm@naver.com
+#
+
 from tensorflow.keras.layers import Conv2D, Conv2DTranspose, Dense, Flatten, Dropout, BatchNormalization, Reshape, LeakyReLU, Input
 from tensorflow.keras.models import Model, Sequential
 from tensorflow.keras.callbacks import ModelCheckpoint
